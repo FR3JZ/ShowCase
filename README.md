@@ -1,4 +1,3 @@
-```markdown
 # Restaurant Menu Allergies Application
 
 ## Introduction
@@ -58,4 +57,3 @@ Developing a Progressive Web Application (PWA) for restaurants, focusing on crea
 
 ## Conclusion
 The Restaurant Menu Allergies Application combines modern web technologies to address the need for allergy-aware menu management in restaurants, showcasing the impact of web development in practical solutions.
-```
